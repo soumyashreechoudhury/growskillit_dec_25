@@ -1,0 +1,16 @@
+package day2;
+public class Program1_IfElse {
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int num=27;
+		if(num%2==0) {
+			System.out.println(num+" is even");
+		}
+		else {
+			System.out.println(num+" is odd");
+		}
+		int height=165;
+		System.out.println("Your height is " + height + " cm");
+	}
+
+}
