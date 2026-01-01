@@ -1,6 +1,6 @@
 package Assignments;
 
-public class Assignment4_SumOfNumber {
+public class Assignment5_SumOfNumber {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int sum=0;

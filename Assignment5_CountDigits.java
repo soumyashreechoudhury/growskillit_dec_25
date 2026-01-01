@@ -1,6 +1,6 @@
 package Assignments;
 
-public class Assignment4_CountDigits {
+public class Assignment5_CountDigits {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int count=0;
